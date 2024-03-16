@@ -8,5 +8,5 @@ git_commands = {
     "git push": "Copies the changes made to the file in the staging area to the remote repository.",
     "git pull": "",
     "git branch": "",
-    "git merge": "",
+    "git merge": "Combines the changes made in two branches.",
 }
